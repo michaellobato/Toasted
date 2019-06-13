@@ -1,0 +1,2 @@
+gcc:
+  gcc -Wall -Wextra -ansi -pedantic source/driver.c source/effects.c source/EnemyManager.c source/GraphicsSystem.c source/hud.c source/LevelFive.c source/LevelFour.c source/LevelManager.c source/LevelOne.c source/LevelThree.c source/LevelTwo.c source/LoadSaves.c source/mauler.c source/MenuSystem.c source/Overworld.c source/player.c source/Sound.c source/timer.c source/turret.c source/WeaponManager.c "C:/Program Files/Microsoft Visual Studio/VC98/Lib/Winmm.lib" fmod/fmodvc.lib -o gccToasted.exe

@@ -1,0 +1,189 @@
+/* ************* ITEMS COMPLETE ************* */
+
+PRIORITY: Medium
+  STATUS: Complete (Not Needed)
+   ADDED: March 14
+    ITEM: Make the player run faster
+          with the pistol / dual pistols.
+
+PRIORITY: High
+  STATUS: Complete (Chris)
+   ADDED: March 14
+    ITEM: Make the mauler move again. :(
+
+PRIORITY: Low
+  STATUS: Complete (Paul)
+   ADDED: March 14
+    ITEM: Make the level2 boss not go outside
+          of the boss room.
+
+PRIORITY: Medium
+  STATUS: Complete (Chris)
+   ADDED: March 14
+    ITEM: Make the player flash when he takes
+          damage.
+
+PRIORITY: Medium
+  STATUS: Complete (Paul)
+   ADDED: March 14
+    ITEM: Make the spawn points flash when
+          they take damage.
+
+PRIORITY: Medium
+  STATUS: Complete (Sheridan)
+   ADDED: March 14
+    ITEM: Make the level 4 boss not kill player
+          upon the slightest impact.
+
+PRIORITY: High
+  STATUS: Complete (Paul and Sheridan)*
+   ADDED: March 14
+    ITEM: Make the player spawn before the boss
+          rooms if they die in a boss battle.
+
+PRIORITY: Medium
+  STATUS: Complete (Sheridan)
+   ADDED: March 14
+    ITEM: Get apostrophe support for the story / HUD.
+
+PRIORITY: Low
+  STATUS: Complete (Not Needed)
+   ADDED: March 14
+    ITEM: Clear the enemies and spawn point’s pre / post
+          boss battle depending on the level.
+          
+PRIORITY: High
+  STATUS: Complete (Sheridan)
+   ADDED: March 14
+    ITEM: Level 4 - Remove the requirement to destroy
+          all the spawn points before continuing.
+
+PRIORITY: High
+  STATUS: In Progress (Paul)
+   ADDED: March 14
+    ITEM: Make sure all of the levels are balanced
+          to our team's liking. Be sure to tell me
+          what rocks, but especially what doesn't.
+
+PRIORITY: Medium
+  STATUS: Complete (Paul)*
+   ADDED: March 14
+    ITEM: Make all the levels previous boss doors open
+          when the boss gets killed.
+
+PRIORITY: Low
+  STATUS: Complete (Cullen)
+   ADDED: March 15
+    ITEM: Modify the rifle / sniper so they seem more
+          different. Possibly only allow the rifle to
+          pass through a few enemies before the bullet
+          deletes itself.
+
+PRIORITY: Medium
+  STATUS: Complete (Sheridan)
+   ADDED: March 15
+    ITEM: Force the player to redraw so he doesn't
+          accidently become covered up by other stuff, i.e.
+          the level 3 boss.
+
+PRIORITY: Medium
+  STATUS: Complete (Sheridan)
+   ADDED: March 15
+    ITEM: Add a pause button.
+
+PRIORITY: High
+  STATUS: Complete (Paul and Sheridan)
+   ADDED: March 15
+    ITEM: Clear the turrets in level 3 if the player dies or
+          defeats the boss.
+
+PRIORITY: Medium
+  STATUS: Complete (Sheridan)
+   ADDED: March 15
+    ITEM: After the boss has been killed, spawn the player
+          back at the beginning of the level.
+
+PRIORITY: Low
+  STATUS: Complete (Not Needed)
+   ADDED: March 16
+    ITEM: Add a score to the hud.
+
+PRIORITY: Medium
+  STATUS: Complete (Paul)
+   ADDED: March 16
+    ITEM: Make sure all the bosses indicate to the player
+          when they get hurt. Ex: Make them blink.
+
+PRIORITY: Medium
+  STATUS: Complete (Paul)
+   ADDED: March 23
+    ITEM: The player constantly spawns at the level 3 boss
+          regardless of if he has been defeated or not.
+
+PRIORITY: Low
+  STATUS: Complete (Not Needed)
+   ADDED: March 14
+    ITEM: Make all of the shotgun bullets create at 
+          a single location (rounding issue thing).
+
+PRIORITY: Low
+  STATUS: Complete (Mike)
+   ADDED: March 15
+    ITEM: The red box around the pistols doesn't light
+          up when the first uber has been equipped.
+          This problem only happens when cycling with the 
+          spacebar.
+
+PRIORITY: Very High
+  STATUS: Complete (Chris)
+   ADDED: March 23
+    ITEM: Level 3 turrets don't shoot at the player anymore
+          and sometimes the boss doesn't register right
+          away after you kill him.
+
+PRIORITY: Very High
+  STATUS: Complete (Chris)
+   ADDED: March 30
+    ITEM: Make the Mauler work.
+
+PRIORITY: Very High
+  STATUS: Complete (Chris)
+   ADDED: March 31
+    ITEM: Directly after the level 5 boss dies, load the 
+          victory screen.
+
+/* ************* ITEMS NOT COMPLETE ************* */
+
+PRIORITY: Medium
+  STATUS: Not Complete
+   ADDED: March 14
+    ITEM: Add more sound effects to the game
+          and reduce the intensity of the
+          bullet sound effect. Also add a 
+          'ding' effect when a new message
+          appears on the HUD.
+
+PRIORITY: Medium
+  STATUS: Not Complete
+   ADDED: April 4
+    ITEM: Mauler doesn't delete correctly if he dies
+          while he's flying across the screen.
+
+PRIORITY: Medium
+  STATUS: Not Complete
+   ADDED: April 4
+    ITEM: Level 5 boss's left arm runs over the player
+          after it has been blown off.
+
+PRIORITY: Medium
+  STATUS: Not Complete
+   ADDED: April 4
+    ITEM: Reset the levelFiveBossComplete variable after 
+          the final boss has been killed. Also set the
+          levelFiveComplete to true.
+
+
+* - Fixes may not include level five.
+
+
+

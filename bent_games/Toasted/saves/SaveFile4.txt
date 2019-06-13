@@ -1,0 +1,31 @@
+\\ player name data
+playerName=Empty
+
+\\ level data
+levelOneComplete=0
+levelTwoComplete=0
+levelThreeComplete=0
+levelFourComplete=0
+levelFiveComplete=0
+
+\\ weapon data
+singlePistolEnabled=1
+doublePistolEnabled=0
+spreadGunEnabled=0
+scatterGunEnabled=0
+subMachineGunEnabled=0
+heavyMachineGunEnabled=0
+rifleEnabled=0
+sniperEnabled=0
+rocketLauncherEnabled=0
+omegaLaserEnabled=0
+
+\\ boss waypoint data
+levelOneBoss=0
+levelTwoBoss=0
+levelThreeBoss=0
+levelFourBoss=0
+levelFiveBoss=0
+
+\\ save the sPlayers weapon
+currentWeapon=0

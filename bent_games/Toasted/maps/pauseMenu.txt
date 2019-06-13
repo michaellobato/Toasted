@@ -1,0 +1,13 @@
+                    - Controls -            
+                                            
+               W, A, S, D - Move            
+                                            
+    Up, Down, Left, Right - Shoot           
+                                            
+            1, 2, 3, 4, 5 - Weapon Switching
+                                            
+           Spacebar, Q, E - Weapon Cycling  
+                                            
+                    Shift - Grenades        
+                                            
+                      ESC - Quit            

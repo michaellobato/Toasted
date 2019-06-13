@@ -1,0 +1,18 @@
+\\ level data
+levelOneComplete=0
+levelTwoComplete=0
+levelThreeComplete=0
+levelFourComplete=0
+levelFiveComplete=0
+
+\\ weapons data
+singlePistolEnabled=1
+doublePistolEnabled=0
+spreadGunEnabled=1
+scatterGunEnabled=0
+subMachineGunEnabled=0
+heavyMachineGunEnabled=0
+rifleEnabled=0
+sniperEnabled=0
+rocketLauncherEnabled=0
+omegaLaserEnabled=0

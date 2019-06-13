@@ -1,0 +1,59 @@
+/* *** switches *** */
+
+I = invisible wall
+i = invisible wall switch
+
+G = invisible wall
+g = invisible wall switch
+
+S = visible wall
+s = visible wall switch
+
+U = visible wall
+u = visible wall switch
+
+R = visible wall
+r = visible wall switch
+
+V = visible wall
+v = visible wall switch
+
+
+/* *** items *** */
+
+W = weapon upgrade - Dual Pistol
+] = weapon upgrade - spread gun
+) = weapon upgrade - scattergun
+[ = weapon upgrade - sub machine gun
+( = weapon upgrade - heavy machine gun
+" = weapon upgrade - rifle
+' = weapon upgrade - sniper
+^ = weapon upgrade - rocket launcher
+~ = weapon upgrade - omega laser
+
+H = health pack
+
+
+/* *** level characters *** */
+
+X = wall
+  = green grass
+A = black space
+
+
+/* *** enemies *** */
+
+C = clawbot spawn
+Z = zigzag spawn
+T = shooter spawn
+Y = sniper spawn
+B = burlybot spawn
+Q = mauler
+
+/* *** bosses / minibosses */
+
+m = miniboss level one
+n = miniboss level two
+# = boss level one
+% = boss level four
+$ = boss level five

@@ -1,0 +1,41 @@
+/* *** Player Stats *** */
+
+hp = 100
+
+
+/* *** Enemy Stats *** */
+
+/* Clawbot */
+hp =     10
+damage = 5
+
+/* Jumperbot */
+hp =     20
+damage = 3
+
+/* shooterbot */
+hp =     40
+damage = 10
+
+/* sniperbot */
+hp =     50
+damage = 20
+
+/* burlybot */
+hp =     500
+damage = 75
+
+
+/* *** Weapon Stats *** */
+
+single pistol   damage = 10
+dual pistols    damage = 10
+shotgun         damage = 20
+uppped shotgun  damage = 25
+automatic       damage = 15
+upped automatic damage = 20
+rifle           damage = 35
+sniper          damage = 50
+rocket          damage = 100 on impact, 50 on splash
+last uber       damage = variable damage
+

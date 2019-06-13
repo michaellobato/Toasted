@@ -1,0 +1,40 @@
+COMPLETE: Yes
+BUG (high priority):
+  Particle system seems to display random items periodically
+  throughout play.
+
+COMPLETE: No
+BUG (low priority):
+  Level 3's miniboss will overwrite the player when the player
+  moves to any location adjacent to the "rails" of the boss.
+
+COMPLETE: No
+BUG (high priority):
+  Level 5's miniboss doesn't move.
+
+COMPLETE: No
+BUG (medium priority):
+  Level 5's boss overwrites walls and I believe the particle 
+  system kills you in one hit AFTER you explode an arm.
+
+COMPLETE: No
+BUG (low priority):
+  Level 2's boss is displayed by an '@' when it shouldn't
+  be.
+
+COMPLETE: No
+BUG (medium priority):
+  Level 4's boss will move over the player when the boss is in
+  the moving state. I believe it might be caused when the boss
+  is in its red mode and can take damage.
+
+COMPLETE: No
+BUG (low priority):
+  Level 1's miniboss doesn't seem to be freeing his location
+  correctly. Sometimes a clawbot appears where he was.
+
+COMPLETE: No
+BUG (medium priority):
+  In level 2, if the player shoots the rocket launcher at the door
+  they came in, the game crashes.
+

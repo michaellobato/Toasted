@@ -1,0 +1,91 @@
+    LEVEL: 1
+ LOCATION: (262, 107)
+     TYPE: Fire Turret
+SHOOT DIR: Right
+ BEHAVIOR: Burst fire, enough so the player
+           can run between the bursts. Make sure
+           it hurts both the player and enemies.
+
+    LEVEL: 1
+ LOCATION: (302, 97)
+     TYPE: Fire Turret
+SHOOT DIR: Left
+ BEHAVIOR: Burst fire, enough so the player
+           can run between the bursts. Make sure
+           it hurts both the player and enemies.
+
+    LEVEL: 1
+ LOCATION: (262, 87)
+     TYPE: Fire Turret
+SHOOT DIR: Right
+ BEHAVIOR: Burst fire, enough so the player
+           can run between the bursts. Make sure
+           it hurts both the player and enemies.
+
+    LEVEL: 2
+ LOCATION: (126, 81)
+     TYPE: Lightning Turret
+SHOOT DIR: Every
+ BEHAVIOR: I'm not sure exactly how this turret works,
+           but make it destructable (~50 hp), make it
+           blink when it takes damage, and have it hurt
+           both the player and enemies.
+
+    LEVEL: 4
+ LOCATION: (121, 206)
+     TYPE: Fire Turret
+SHOOT DIR: Left
+ BEHAVIOR: Burst fire, enough so the player
+           can run between the bursts. Make sure
+           it hurts both the player and enemies.
+
+    LEVEL: 4
+ LOCATION: (104, 220)
+     TYPE: Fire Turret
+SHOOT DIR: Right
+ BEHAVIOR: Burst fire, enough so the player
+           can run between the bursts. Make sure
+           it hurts both the player and enemies.
+
+    LEVEL: 4
+ LOCATION: (121, 236)
+     TYPE: Fire Turret
+SHOOT DIR: Left
+ BEHAVIOR: Burst fire, enough so the player
+           can run between the bursts. Make sure
+           it hurts both the player and enemies.
+
+    LEVEL: 4
+ LOCATION: (104, 252)
+     TYPE: Fire Turret
+SHOOT DIR: Right
+ BEHAVIOR: Burst fire, enough so the player
+           can run between the bursts. Make sure
+           it hurts both the player and enemies.
+
+    LEVEL: 5
+ LOCATION: (224, 242)
+     TYPE: Rocket Turret
+SHOOT DIR: Up?
+ BEHAVIOR: Basically shoot out a rocket that can hurt
+           both the player and the enemies. Try to make
+           it so it takes ~5 rockets to kill the player
+           when he has full health. Also make these
+           turrets destructable. (100 hp?)
+
+    LEVEL: 5
+ LOCATION: (293, 242)
+     TYPE: Rocket Turret
+SHOOT DIR: Up?
+ BEHAVIOR: Basically shoot out a rocket that can hurt
+           both the player and the enemies. Try to make
+           it so it takes ~5 rockets to kill the player
+           when he has full health. Also make these
+           turrets destructable. (100 hp?)
+
+
+
+
+
+
+

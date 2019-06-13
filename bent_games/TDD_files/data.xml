@@ -1,0 +1,1375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument>
+	<DocumentProperties>
+		<Title></Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="0" Name="Page-1" NameU="Page-1">
+			<Layer IX="0">
+				<Name>Connector</Name>
+				<NameUniv>Connector</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Shapes>
+				<Shape ID="1" UniqueID="{92DDB1EA-05A0-4507-AE00-3D4E7AC5E639}" Name="Rectangle" NameU="Rectangle" Master="0">
+					<Text>Toasted Intro</Text>
+					<XForm>
+						<PinX Unit="MM">3.937007874015748</PinX>
+						<PinY Unit="MM">12.598425196850393</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="2" UniqueID="{FD4E12B4-A13D-4D46-9460-6F7618AB3086}" Name="Rectangle.2" NameU="Rectangle.2" Master="0">
+					<Text>Movement key pressed?</Text>
+					<XForm>
+						<PinX Unit="MM">3.937007874015748</PinX>
+						<PinY Unit="MM">8.661417322834646</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="5" UniqueID="{F229C7A5-B48F-4FAA-9067-2B7613FA0DAC}" Name="Rectangle.5" NameU="Rectangle.5" Master="0">
+					<Text>Update enemy and weapon locations</Text>
+					<XForm>
+						<PinX Unit="MM">3.937007874015749</PinX>
+						<PinY Unit="MM">10.629921259842519</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="7" UniqueID="{800EB6BD-91DD-4060-AEA6-AED875F10756}" Name="Rectangle.7" NameU="Rectangle.7" Master="0">
+					<Text>Player collide with enemy weapon?</Text>
+					<XForm>
+						<PinX Unit="MM">3.937007874015748</PinX>
+						<PinY Unit="MM">3.937007874015748</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="8" UniqueID="{B7D70437-7BCE-489C-880F-C4E8DA8E9DBF}" Name="Triangle" NameU="Triangle" Master="2">
+					<Text>no</Text>
+					<XForm>
+						<PinX Unit="MM">3.149606299212604</PinX>
+						<PinY Unit="MM">-0.013123359580062</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="9" UniqueID="{F746A563-376E-4C56-97DA-71345C1F2A4B}" Name="Rectangle.9" NameU="Rectangle.9" Master="0">
+					<Text>Decrease hp</Text>
+					<XForm>
+						<PinX Unit="MM">6.102362204724408</PinX>
+						<PinY Unit="MM">3.937007874015748</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="10" UniqueID="{9940397F-1615-4D10-B95A-3EA3179CF5B8}" Name="Triangle.10" NameU="Triangle.10" Master="2">
+					<Text>yes</Text>
+					<XForm>
+						<PinX Unit="MM">-2.854330708661421</PinX>
+						<PinY Unit="MM">0.774278215223092</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="11" UniqueID="{767F7FA0-6C03-4BDC-B506-F437B5172C36}" Name="Rectangle.11" NameU="Rectangle.11" Master="0">
+					<Text>Hp = 0?</Text>
+					<XForm>
+						<PinX Unit="MM">7.677165354330708</PinX>
+						<PinY Unit="MM">3.937007874015748</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="12" UniqueID="{21B41FB0-71E5-4D47-B76B-ABE545747C8B}" Name="Triangle.12" NameU="Triangle.12" Master="2">
+					<Text>no</Text>
+					<XForm>
+						<PinX Unit="MM">3.937007874015750</PinX>
+						<PinY Unit="MM">1.561679790026242</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="13" UniqueID="{CBC9B013-A29F-4ACC-BDF1-1A7085C17C25}" Name="Triangle.13" NameU="Triangle.13" Master="2">
+					<Text>yes</Text>
+					<XForm>
+						<PinX Unit="MM">-0.787401574803152</PinX>
+						<PinY Unit="MM">0.774278215223092</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="17" UniqueID="{DE425302-C4F0-4C87-B78A-E92CB9B2718B}" Name="Rectangle.17" NameU="Rectangle.17" Master="0">
+					<Text>Enemy collide with player weapon?</Text>
+					<XForm>
+						<PinX Unit="MM">6.102362204724408</PinX>
+						<PinY Unit="MM">-1.968503937007874</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="18" UniqueID="{191C7305-1963-4B76-AE54-94B1080B76DF}" Name="Triangle.18" NameU="Triangle.18" Master="2">
+					<Text>yes</Text>
+					<XForm>
+						<PinX Unit="MM">4.999999999999997</PinX>
+						<PinY Unit="MM">3.884514435695536</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="20" UniqueID="{DF771E56-7711-4705-9919-9F8D2EA33314}" Name="Rectangle.20" NameU="Rectangle.20" Master="0">
+					<Text>Decrease hp</Text>
+					<XForm>
+						<PinX Unit="MM">8.503937007874022</PinX>
+						<PinY Unit="MM">-1.968503937007875</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="21" UniqueID="{87D91ADD-477D-4459-8A2A-0D9AD6301808}" Name="Rectangle.21" NameU="Rectangle.21" Master="0">
+					<Text>Hp = 0?</Text>
+					<XForm>
+						<PinX Unit="MM">10.157480314960637</PinX>
+						<PinY Unit="MM">-1.968503937007874</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="22" UniqueID="{E6B9CAA5-C147-4439-AFE1-CBE057FC1612}" Name="Triangle.22" NameU="Triangle.22" Master="2">
+					<Text>yes</Text>
+					<XForm>
+						<PinX Unit="MM">8.425196850393700</PinX>
+						<PinY Unit="MM">0.734908136482938</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="23" UniqueID="{EEA720C7-4D55-4C94-9A7C-49704C6BF957}" Name="Triangle.23" NameU="Triangle.23" Master="2">
+					<Text>no</Text>
+					<XForm>
+						<PinX Unit="MM">3.937007874015745</PinX>
+						<PinY Unit="MM">3.136482939632541</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="24" UniqueID="{68EDEBCA-27FB-4886-83F7-0B860ECAF028}" Name="Rectangle.24" NameU="Rectangle.24" Master="0">
+					<Text>Destroy enemy</Text>
+					<XForm>
+						<PinX Unit="MM">12.125984251968513</PinX>
+						<PinY Unit="MM">-1.968503937007875</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="25" UniqueID="{37C94A6A-C50D-4E1A-8BF1-F486032F7235}" Name="Rectangle.25" NameU="Rectangle.25" Master="0">
+					<Text>Player on health?</Text>
+					<XForm>
+						<PinX Unit="MM">3.937007874015748</PinX>
+						<PinY Unit="MM">2.362204724409448</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="26" UniqueID="{DD100228-B990-43C6-A75E-6266207FE260}" Name="Triangle.26" NameU="Triangle.26" Master="2">
+					<Text>yes</Text>
+					<XForm>
+						<PinX Unit="MM">2.755905511811026</PinX>
+						<PinY Unit="MM">2.349081364829392</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="27" UniqueID="{6C6B971E-B361-467A-BFC2-FA861C9A6D8D}" Name="Triangle.27" NameU="Triangle.27" Master="2">
+					<Text>no</Text>
+					<XForm>
+						<PinX Unit="MM">6.102362204724412</PinX>
+						<PinY Unit="MM">-2.847769028871390</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="28" UniqueID="{D0A68F7D-17B6-4501-8BEF-BE400CB73221}" Name="Rectangle.28" NameU="Rectangle.28" Master="0">
+					<Text>Increase hp</Text>
+					<XForm>
+						<PinX Unit="MM">1.574803149606299</PinX>
+						<PinY Unit="MM">2.362204724409449</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="29" UniqueID="{E2597A80-76AF-4785-9BAB-C14973CB6A88}" Name="Rectangle.29" NameU="Rectangle.29" Master="0">
+					<Text>Player on top of item able to be picked up?</Text>
+					<XForm>
+						<PinX Unit="MM">2.559055118110236</PinX>
+						<PinY Unit="MM">0.787401574803150</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="30" UniqueID="{509CCC54-3D19-4B44-9ED5-942760435BBC}" Name="Triangle.30" NameU="Triangle.30" Master="2">
+					<Text>yes</Text>
+					<XForm>
+						<PinX Unit="MM">6.417322834645672</PinX>
+						<PinY Unit="MM">0.734908136482938</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="32" UniqueID="{C800FEB7-BB6E-4D67-AE86-D3E273DC63B1}" Name="Rectangle.32" NameU="Rectangle.32" Master="0">
+					<Text>Add to inventory</Text>
+					<XForm>
+						<PinX Unit="MM">0.275590551181102</PinX>
+						<PinY Unit="MM">0.787401574803149</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="33" UniqueID="{15C8F8A0-E686-4425-9BA6-973D0352D1BA}" Name="Rectangle.33" NameU="Rectangle.33" Master="0">
+					<Text>Player on unlock able door?</Text>
+					<XForm>
+						<PinX Unit="MM">5.314960629921259</PinX>
+						<PinY Unit="MM">0.787401574803149</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="36" UniqueID="{8AB67F6A-7A64-489B-9B94-557A7BF7FF92}" Name="Rectangle.36" NameU="Rectangle.36" Master="0">
+					<Text>Level 1</Text>
+					<XForm>
+						<PinX Unit="MM">3.937007874015747</PinX>
+						<PinY Unit="MM">11.614173228346457</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="37" UniqueID="{D43F2098-839F-476F-8D24-7DC1095E821B}" Name="Triangle.37" NameU="Triangle.37" Master="2">
+					<Text>yes</Text>
+					<XForm>
+						<PinX Unit="MM">11.141732283464576</PinX>
+						<PinY Unit="MM">-1.981627296587931</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="38" UniqueID="{873838C5-33F1-4230-AF25-F813E70C78B7}" Name="Triangle.38" NameU="Triangle.38" Master="2">
+					<Text>no</Text>
+					<XForm>
+						<PinX Unit="MM">-1.850393700787399</PinX>
+						<PinY Unit="MM">-0.052493438320212</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="39" UniqueID="{93ECCCB6-EDC1-4AC7-B758-9784E4CE82EB}" Name="Rectangle.39" NameU="Rectangle.39" Master="0">
+					<Text>Move in that direction</Text>
+					<XForm>
+						<PinX Unit="MM">5.511811023622047</PinX>
+						<PinY Unit="MM">6.102362204724408</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="14" UniqueID="{1701CC38-E5E4-4066-9577-AE466BF185AB}" Name="Rectangle.14" NameU="Rectangle.14" Master="0">
+					<Text>Wall in the way?</Text>
+					<XForm>
+						<PinX Unit="MM">3.937007874015747</PinX>
+						<PinY Unit="MM">6.889763779527558</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="15" UniqueID="{C5BC1674-D109-4292-83A0-FD11F636232E}" Name="Triangle.15" NameU="Triangle.15" Master="2">
+					<Text>yes</Text>
+					<XForm>
+						<PinX Unit="MM">7.480314960629924</PinX>
+						<PinY Unit="MM">-1.981627296587931</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="16" UniqueID="{6E8CC4BC-6305-4998-A98E-09F5E184365E}" Name="Triangle.16" NameU="Triangle.16" Master="2">
+					<Text>no</Text>
+					<XForm>
+						<PinX Unit="MM">10.157480314960639</PinX>
+						<PinY Unit="MM">-2.847769028871390</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="4" UniqueID="{B4643B7D-15EC-46DB-8322-D4087626F291}" Name="Rectangle.4" NameU="Rectangle.4" Master="0">
+					<Text>Shoot key pressed?</Text>
+					<XForm>
+						<PinX Unit="MM">1.968503937007874</PinX>
+						<PinY Unit="MM">8.661417322834645</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="40" UniqueID="{CB16E386-4C9A-4A6D-A845-3229AFA5D588}" Name="Triangle.40" NameU="Triangle.40" Master="2">
+					<Text>yes</Text>
+					<XForm>
+						<PinX Unit="MM">3.937007874015750</PinX>
+						<PinY Unit="MM">6.049868766404198</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="42" UniqueID="{E2E0A75A-D881-415B-8860-D078FDAD6F8F}" Name="Rectangle.42" NameU="Rectangle.42" Master="0">
+					<Text>Fire weapon</Text>
+					<XForm>
+						<PinX Unit="MM">0.984251968503937</PinX>
+						<PinY Unit="MM">6.889763779527558</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="43" UniqueID="{648752D1-D0DC-4188-BED2-0271DC8FDC6F}" Name="Triangle.43" NameU="Triangle.43" Master="2">
+					<Text>no</Text>
+					<XForm>
+						<PinX Unit="MM">5.511811023622044</PinX>
+						<PinY Unit="MM">6.876640419947502</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="41" UniqueID="{9416C0A3-EB2A-492B-9E8E-721DCC4475B3}" Name="Rectangle.41" NameU="Rectangle.41" Master="0">
+					<Text>Check for Player input</Text>
+					<XForm>
+						<PinX Unit="MM">3.937007874015748</PinX>
+						<PinY Unit="MM">9.645669291338582</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="44" UniqueID="{6EC01724-97EC-45AD-B996-0843E9EFEA39}" Name="Rectangle.44" NameU="Rectangle.44" Master="0">
+					<Text>Change weapon key pressed?</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811023621</PinX>
+						<PinY Unit="MM">8.661417322834646</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="45" UniqueID="{D9107763-7916-4A31-A9CC-4A38F4BF6761}" Name="Rectangle.45" NameU="Rectangle.45" Master="0">
+					<Text>Cycle weapons</Text>
+					<XForm>
+						<PinX Unit="MM">6.889763779527558</PinX>
+						<PinY Unit="MM">6.889763779527558</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="46" UniqueID="{DE8D23D9-7A2D-4420-9B4D-5B0A4CDA7A11}" Name="Rectangle.46" NameU="Rectangle.46" Master="0">
+					<Text>Look at player and check for collisions</Text>
+					<XForm>
+						<PinX Unit="MM">3.937007874015748</PinX>
+						<PinY Unit="MM">5.118110236220471</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="6" UniqueID="{F1A56494-BD85-4A7A-B443-9E677DA7AFC8}" Name="Rectangle.6" NameU="Rectangle.6" Master="0">
+					<Text>Have key?</Text>
+					<XForm>
+						<PinX Unit="MM">7.440944881889764</PinX>
+						<PinY Unit="MM">0.787401574803149</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="47" UniqueID="{8FCB6D90-CAEC-4676-8D30-CD08532C69BF}" Name="Rectangle.47" NameU="Rectangle.47" Master="0">
+					<Text>Open door</Text>
+					<XForm>
+						<PinX Unit="MM">9.330708661417322</PinX>
+						<PinY Unit="MM">0.787401574803150</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="31" UniqueID="{6BFB71DF-C60E-4FB7-B7DC-6D3A838AA47A}" Name="Rectangle.31" NameU="Rectangle.31" Master="0">
+					<Text>Boss battle activated?</Text>
+					<XForm>
+						<PinX Unit="MM">3.937007874015748</PinX>
+						<PinY Unit="MM">-6.023622047244094</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="34" UniqueID="{3AB10CC9-0718-48D0-8F9D-65A921A1A020}" Name="Triangle.34" NameU="Triangle.34" Master="2">
+					<Text>no</Text>
+					<XForm>
+						<PinX Unit="MM">5.275590551181100</PinX>
+						<PinY Unit="MM">-6.115485564304460</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="35" UniqueID="{4A2A097A-5901-41EF-AAD6-11AFEF6AAC5B}" Name="Triangle.35" NameU="Triangle.35" Master="2">
+					<Text>yes</Text>
+					<XForm>
+						<PinX Unit="MM">3.937007874015750</PinX>
+						<PinY Unit="MM">-6.902887139107616</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="48" UniqueID="{E4D6CBC7-9D63-4AE8-BE71-845EE17649FF}" Name="Rectangle.48" NameU="Rectangle.48" Master="0">
+					<Text>Boss dead?</Text>
+					<XForm>
+						<PinX Unit="MM">3.996062992125982</PinX>
+						<PinY Unit="MM">-7.696850393700787</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="49" UniqueID="{2712FB06-C040-40BA-9D33-51693C591047}" Name="Triangle.49" NameU="Triangle.49" Master="2">
+					<Text>no</Text>
+					<XForm>
+						<PinX Unit="MM">5.236220472440948</PinX>
+						<PinY Unit="MM">-7.454068241469818</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="50" UniqueID="{5E7FC5CD-15DE-4E5B-8D9F-66941AB6D2C2}" Name="Triangle.50" NameU="Triangle.50" Master="2">
+					<Text>yes</Text>
+					<XForm>
+						<PinX Unit="MM">5.236220472440943</PinX>
+						<PinY Unit="MM">-8.517060367454072</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="51" UniqueID="{48BC8A16-EBA0-4B3A-8615-133703A5B86A}" Name="Rectangle.51" NameU="Rectangle.51" Master="0">
+					<Text>Initiate Boss actions</Text>
+					<XForm>
+						<PinX Unit="MM">6.417322834645669</PinX>
+						<PinY Unit="MM">-7.401574803149606</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="52" UniqueID="{ADC75BEF-C36D-4994-A848-E59ADB7FC6AA}" Name="Rectangle.52" NameU="Rectangle.52" Master="0">
+					<Text>Spawn new weapon</Text>
+					<XForm>
+						<PinX Unit="MM">6.417322834645669</PinX>
+						<PinY Unit="MM">-8.464566929133857</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="53" UniqueID="{87AD1CAA-489F-4EE6-A8BC-22796F203026}" Name="Rectangle.53" NameU="Rectangle.53" Master="0">
+					<Text>Is it a new weapon?</Text>
+					<XForm>
+						<PinX Unit="MM">-1.850393700787401</PinX>
+						<PinY Unit="MM">0.787401574803149</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="54" UniqueID="{B5FE1A48-AA88-460F-8AFC-E8E4E0BB8D79}" Name="Triangle.54" NameU="Triangle.54" Master="2">
+					<Text>no</Text>
+					<XForm>
+						<PinX Unit="MM">0.275590551181109</PinX>
+						<PinY Unit="MM">-0.052493438320213</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="55" UniqueID="{AF907317-3911-411B-864B-D6B8D07C0972}" Name="Triangle.55" NameU="Triangle.55" Master="2">
+					<Text>yes</Text>
+					<XForm>
+						<PinX Unit="MM">1.377952755905509</PinX>
+						<PinY Unit="MM">0.695538057742783</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="56" UniqueID="{345F5610-A27C-4213-8C80-06EF1EC88F34}" Name="Rectangle.56" NameU="Rectangle.56" Master="0">
+					<Text>MOVE TO LEVEL 2</Text>
+					<XForm>
+						<PinX Unit="MM">-3.838582677165355</PinX>
+						<PinY Unit="MM">0.787401574803150</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="57" UniqueID="{52482792-A39D-4E10-A410-BFC7098D3DE9}" Name="Rectangle.57" NameU="Rectangle.57" Master="0">
+					<Text>Spawn timer up?</Text>
+					<XForm>
+						<PinX Unit="MM">3.937007874015748</PinX>
+						<PinY Unit="MM">-4.251968503937007</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="58" UniqueID="{FEA93F07-2E3C-4857-B3C3-571FD7E021E8}" Name="Triangle.58" NameU="Triangle.58" Master="2">
+					<Text>no</Text>
+					<XForm>
+						<PinX Unit="MM">3.937007874015750</PinX>
+						<PinY Unit="MM">-5.131233595800523</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="59" UniqueID="{E4E8F6B9-87B3-477D-8EFB-1D9FE2FB4AF9}" Name="Rectangle.59" NameU="Rectangle.59" Master="0">
+					<Text>Spawn more enemies</Text>
+					<XForm>
+						<PinX Unit="MM">1.653543307086615</PinX>
+						<PinY Unit="MM">-4.251968503937007</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="60" UniqueID="{0171CDC2-0BEE-4E1A-AFD4-9E8A96DB0762}" Name="Triangle.60" NameU="Triangle.60" Master="2">
+					<Text>yes</Text>
+					<XForm>
+						<PinX Unit="MM">2.716535433070864</PinX>
+						<PinY Unit="MM">-4.383202099737536</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="61" UniqueID="{3BD18931-8A35-4224-9504-660BD30046EE}" Name="Rectangle.61" NameU="Rectangle.61" Master="0">
+					<Text>Draw manipulated array to screen</Text>
+					<XForm>
+						<PinX Unit="MM">8.779527559055119</PinX>
+						<PinY Unit="MM">-9.448818897637795</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="3" UniqueID="{BD7AE352-CC44-430C-B70F-2B748B6599CD}" Name="Rectangle.3" NameU="Rectangle.3" Master="0">
+					<Text>Look at all enemies and check for collisions</Text>
+					<XForm>
+						<PinX Unit="MM">3.937007874015748</PinX>
+						<PinY Unit="MM">-0.905511811023622</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="62" UniqueID="{3609D94E-D736-433A-86E4-577A861B223E}" Name="Dynamic connector" NameU="Dynamic connector" Master="3">
+					<XForm>
+						<PinX Unit="MM">4.625984251968504</PinX>
+						<PinY Unit="MM">1.574803149606299</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="63" UniqueID="{9FEB75D0-1601-45F9-AE1B-BA65086AFC2F}" Name="Dynamic connector.63" NameU="Dynamic connector.63" Master="3">
+					<XForm>
+						<PinX Unit="MM">3.248031496062992</PinX>
+						<PinY Unit="MM">1.574803149606299</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="64" UniqueID="{6AEFDD57-DF7A-4FE0-9AFD-F037EDF41ED3}" Name="Dynamic connector.64" NameU="Dynamic connector.64" Master="3">
+					<XForm>
+						<PinX Unit="MM">3.937007874015749</PinX>
+						<PinY Unit="MM">1.870078740157480</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="65" UniqueID="{74B4F134-B241-46DD-A763-1028D608BDF4}" Name="Dynamic connector.65" NameU="Dynamic connector.65" Master="3">
+					<XForm>
+						<PinX Unit="MM">3.822178477690288</PinX>
+						<PinY Unit="MM">0.472440944881887</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="66" UniqueID="{5FE323EB-D887-453B-B73D-8C2704FBB3A5}" Name="Dynamic connector.66" NameU="Dynamic connector.66" Master="3">
+					<XForm>
+						<PinX Unit="MM">3.658136482939633</PinX>
+						<PinY Unit="MM">-0.314960629921266</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="68" UniqueID="{7C7BECC4-A4DA-4FF0-A9BD-AACF8B74B101}" Name="Dynamic connector.68" NameU="Dynamic connector.68" Master="3">
+					<XForm>
+						<PinX Unit="MM">1.968503937007873</PinX>
+						<PinY Unit="MM">0.649606299212602</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="69" UniqueID="{218EBB97-2740-426A-B9CF-65FC76B1E319}" Name="Dynamic connector.69" NameU="Dynamic connector.69" Master="3">
+					<XForm>
+						<PinX Unit="MM">0.711942257217845</PinX>
+						<PinY Unit="MM">0.885826771653543</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="70" UniqueID="{EE918CB9-CA76-47E4-9AC8-90C806C5AEFA}" Name="Dynamic connector.70" NameU="Dynamic connector.70" Master="3">
+					<XForm>
+						<PinX Unit="MM">-0.255905511811025</PinX>
+						<PinY Unit="MM">0.688976377952756</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="71" UniqueID="{C9E296C6-E2D0-4476-AAB2-D45303C559CB}" Name="Dynamic connector.71" NameU="Dynamic connector.71" Master="3">
+					<XForm>
+						<PinX Unit="MM">-1.433727034120737</PinX>
+						<PinY Unit="MM">0.925196850393698</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="72" UniqueID="{5A4670C5-42CE-4B67-A9E8-75CE07DE684F}" Name="Dynamic connector.72" NameU="Dynamic connector.72" Master="3">
+					<XForm>
+						<PinX Unit="MM">-2.352362204724411</PinX>
+						<PinY Unit="MM">0.688976377952756</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="73" UniqueID="{614524CE-19BD-4422-9CC6-488467FC0C29}" Name="Dynamic connector.73" NameU="Dynamic connector.73" Master="3">
+					<XForm>
+						<PinX Unit="MM">-3.461286089238848</PinX>
+						<PinY Unit="MM">0.925196850393698</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="74" UniqueID="{048409D4-68F4-4D01-A326-B0FBF97DFDA8}" Name="Dynamic connector.74" NameU="Dynamic connector.74" Master="3">
+					<XForm>
+						<PinX Unit="MM">5.866141732283466</PinX>
+						<PinY Unit="MM">0.669291338582679</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="75" UniqueID="{B3189AFD-4520-4968-ABC4-F7205C6885EF}" Name="Dynamic connector.75" NameU="Dynamic connector.75" Master="3">
+					<XForm>
+						<PinX Unit="MM">7.043963254593172</PinX>
+						<PinY Unit="MM">0.905511811023620</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="76" UniqueID="{ECB987F8-4B21-46DD-847E-26BD753B9D3A}" Name="Dynamic connector.76" NameU="Dynamic connector.76" Master="3">
+					<XForm>
+						<PinX Unit="MM">7.933070866141732</PinX>
+						<PinY Unit="MM">0.669291338582679</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="77" UniqueID="{5571DBFE-2211-42DC-AB4C-624AADA38F55}" Name="Dynamic connector.77" NameU="Dynamic connector.77" Master="3">
+					<XForm>
+						<PinX Unit="MM">8.992782152230966</PinX>
+						<PinY Unit="MM">0.905511811023621</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="78" UniqueID="{FD54EF2C-A42C-4419-BBDC-E8EE91EFACDC}" Name="Dynamic connector.78" NameU="Dynamic connector.78" Master="3">
+					<XForm>
+						<PinX Unit="MM">6.633858267716535</PinX>
+						<PinY Unit="MM">-0.059055118110236</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="79" UniqueID="{0B01C073-D91C-417E-9D13-B3C1D3B283BB}" Name="Triangle.79" NameU="Triangle.79" Master="2">
+					<Text>no</Text>
+					<XForm>
+						<PinX Unit="MM">5.314960629921262</PinX>
+						<PinY Unit="MM">-0.091863517060369</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="80" UniqueID="{D1514DD5-1290-450A-860F-40413873D502}" Name="Triangle.80" NameU="Triangle.80" Master="2">
+					<Text>no</Text>
+					<XForm>
+						<PinX Unit="MM">7.440944881889761</PinX>
+						<PinY Unit="MM">-0.131233595800530</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="81" UniqueID="{E9B5A41A-2546-4065-9510-5CF8D04B4204}" Name="Dynamic connector.81" NameU="Dynamic connector.81" Master="3">
+					<XForm>
+						<PinX Unit="MM">5.314960629921261</PinX>
+						<PinY Unit="MM">0.255905511811023</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="82" UniqueID="{F1E5CCB5-729B-4F83-AA17-CB3406379580}" Name="Dynamic connector.82" NameU="Dynamic connector.82" Master="3">
+					<XForm>
+						<PinX Unit="MM">7.440944881889763</PinX>
+						<PinY Unit="MM">0.236220472440944</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="83" UniqueID="{8B7B6A4C-ADF8-427C-8C4F-7C141A267872}" Name="Dynamic connector.83" NameU="Dynamic connector.83" Master="3">
+					<XForm>
+						<PinX Unit="MM">5.574146981627294</PinX>
+						<PinY Unit="MM">-0.374015748031499</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="84" UniqueID="{76160EF2-484C-40DA-AA88-A8C5543A02E0}" Name="Dynamic connector.84" NameU="Dynamic connector.84" Master="3">
+					<XForm>
+						<PinX Unit="MM">4.511154855643045</PinX>
+						<PinY Unit="MM">-0.354330708661417</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="85" UniqueID="{4DCBF44B-F4F7-4BAB-A3FE-D2D6F388FAD8}" Name="Dynamic connector.85" NameU="Dynamic connector.85" Master="3">
+					<XForm>
+						<PinX Unit="MM">1.158136482939629</PinX>
+						<PinY Unit="MM">-0.334645669291340</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="86" UniqueID="{AD28AD08-FC55-458C-ABCA-F0686F01C37A}" Name="Dynamic connector.86" NameU="Dynamic connector.86" Master="3">
+					<XForm>
+						<PinX Unit="MM">1.991469816272966</PinX>
+						<PinY Unit="MM">-0.334645669291342</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="87" UniqueID="{04F944B8-E83F-4C07-B0CA-75B3A5B8264E}" Name="Dynamic connector.87" NameU="Dynamic connector.87" Master="3">
+					<XForm>
+						<PinX Unit="MM">2.739501312335958</PinX>
+						<PinY Unit="MM">0.137795275590545</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="89" UniqueID="{E7715E47-EC11-4701-BAA0-EB347935CE33}" Name="Dynamic connector.89" NameU="Dynamic connector.89" Master="3">
+					<XForm>
+						<PinX Unit="MM">3.937007874015748</PinX>
+						<PinY Unit="MM">-1.437007874015748</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="90" UniqueID="{C1A6F9A6-23AA-44ED-92E4-CC2B3088749D}" Name="Dynamic connector.90" NameU="Dynamic connector.90" Master="3">
+					<XForm>
+						<PinX Unit="MM">6.791338582677167</PinX>
+						<PinY Unit="MM">-2.066929133858268</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="91" UniqueID="{78219CA5-B46E-4FB7-ACFB-C35F38BE0A2C}" Name="Dynamic connector.91" NameU="Dynamic connector.91" Master="3">
+					<XForm>
+						<PinX Unit="MM">8.106955380577427</PinX>
+						<PinY Unit="MM">-1.830708661417326</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="92" UniqueID="{C0EC2576-4C2C-4FB5-BDE2-6465528DB6F4}" Name="Dynamic connector.92" NameU="Dynamic connector.92" Master="3">
+					<XForm>
+						<PinX Unit="MM">6.102362204724411</PinX>
+						<PinY Unit="MM">-2.499999999999996</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="93" UniqueID="{C6B98E8E-ADED-4AD4-A54E-99125E6ED9BE}" Name="Dynamic connector.93" NameU="Dynamic connector.93" Master="3">
+					<XForm>
+						<PinX Unit="MM">10.157480314960637</PinX>
+						<PinY Unit="MM">-2.499999999999996</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="94" UniqueID="{1EB502E0-D1A2-4142-806E-DC8E5B353FC6}" Name="Dynamic connector.94" NameU="Dynamic connector.94" Master="3">
+					<XForm>
+						<PinX Unit="MM">9.330708661417329</PinX>
+						<PinY Unit="MM">-1.968503937007874</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="95" UniqueID="{A0B0ED8C-C232-4342-900D-D20B0C404F53}" Name="Dynamic connector.95" NameU="Dynamic connector.95" Master="3">
+					<XForm>
+						<PinX Unit="MM">10.944881889763787</PinX>
+						<PinY Unit="MM">-1.870078740157480</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="96" UniqueID="{062906BB-2726-45F5-9340-25F4E1FDD256}" Name="Dynamic connector.96" NameU="Dynamic connector.96" Master="3">
+					<XForm>
+						<PinX Unit="MM">11.748687664041999</PinX>
+						<PinY Unit="MM">-1.830708661417326</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="97" UniqueID="{C8E5F155-B67C-49B5-90E3-F72BC6B2DBB4}" Name="Dynamic connector.97" NameU="Dynamic connector.97" Master="3">
+					<XForm>
+						<PinX Unit="MM">8.031496062992131</PinX>
+						<PinY Unit="MM">-1.968503937007874</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="98" UniqueID="{3B0DAAF5-32A9-4951-8166-81DF2153ABD7}" Name="Dynamic connector.98" NameU="Dynamic connector.98" Master="3">
+					<XForm>
+						<PinX Unit="MM">5.134514435695534</PinX>
+						<PinY Unit="MM">-2.263779527559055</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="99" UniqueID="{C9594214-B2CB-4351-9962-C7E24F724FB5}" Name="Dynamic connector.99" NameU="Dynamic connector.99" Master="3">
+					<XForm>
+						<PinX Unit="MM">6.932414698162733</PinX>
+						<PinY Unit="MM">-2.263779527559055</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="101" UniqueID="{006FF861-8FC6-48CC-B1B9-63C142C46645}" Name="Dynamic connector.101" NameU="Dynamic connector.101" Master="3">
+					<XForm>
+						<PinX Unit="MM">2.070209973753279</PinX>
+						<PinY Unit="MM">-4.173228346456695</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="102" UniqueID="{A3DF4FE4-08DC-44A9-8DDE-BC02635AAF34}" Name="Dynamic connector.102" NameU="Dynamic connector.102" Master="3">
+					<XForm>
+						<PinX Unit="MM">3.326771653543306</PinX>
+						<PinY Unit="MM">-4.409448818897636</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="103" UniqueID="{82139B8E-8F1A-4499-9A87-31AA98499A0F}" Name="Dynamic connector.103" NameU="Dynamic connector.103" Master="3">
+					<XForm>
+						<PinX Unit="MM">3.937007874015749</PinX>
+						<PinY Unit="MM">-4.783464566929130</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="104" UniqueID="{9D155ADE-9E3F-4A2D-8EF8-89A6D1901CEE}" Name="Dynamic connector.104" NameU="Dynamic connector.104" Master="3">
+					<XForm>
+						<PinX Unit="MM">3.822178477690289</PinX>
+						<PinY Unit="MM">-5.433070866141732</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="105" UniqueID="{0873BE08-71D0-4434-90B5-3FF19F644E89}" Name="Dynamic connector.105" NameU="Dynamic connector.105" Master="3">
+					<XForm>
+						<PinX Unit="MM">4.606299212598424</PinX>
+						<PinY Unit="MM">-6.161417322834641</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="106" UniqueID="{DB0B9788-2EA2-4E64-85BB-A836A1D2AAF4}" Name="Dynamic connector.106" NameU="Dynamic connector.106" Master="3">
+					<XForm>
+						<PinX Unit="MM">7.142388451443564</PinX>
+						<PinY Unit="MM">-7.637795275590550</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="107" UniqueID="{9C945BB7-7EA1-431D-940E-C4CB8C850499}" Name="Dynamic connector.107" NameU="Dynamic connector.107" Master="3">
+					<XForm>
+						<PinX Unit="MM">3.937007874015749</PinX>
+						<PinY Unit="MM">-6.555118110236220</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="108" UniqueID="{91A92990-0C64-4E08-9F79-42670BD95671}" Name="Dynamic connector.108" NameU="Dynamic connector.108" Master="3">
+					<XForm>
+						<PinX Unit="MM">3.851706036745406</PinX>
+						<PinY Unit="MM">-7.155511811023625</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="109" UniqueID="{F09859FE-D76A-4246-AF96-6B6B177F6405}" Name="Dynamic connector.109" NameU="Dynamic connector.109" Master="3">
+					<XForm>
+						<PinX Unit="MM">4.616141732283465</PinX>
+						<PinY Unit="MM">-7.667322834645667</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="110" UniqueID="{FDA20394-4676-43B6-BE79-FD1D619FC3EA}" Name="Dynamic connector.110" NameU="Dynamic connector.110" Master="3">
+					<XForm>
+						<PinX Unit="MM">4.616141732283462</PinX>
+						<PinY Unit="MM">-8.198818897637793</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="111" UniqueID="{9E8A73E8-AD96-4136-95B5-6F4CDD86E1B5}" Name="Dynamic connector.111" NameU="Dynamic connector.111" Master="3">
+					<XForm>
+						<PinX Unit="MM">5.941601049868762</PinX>
+						<PinY Unit="MM">-7.283464566929135</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="112" UniqueID="{EA2FEB46-DAE4-4258-9B59-78565CD66C17}" Name="Dynamic connector.112" NameU="Dynamic connector.112" Master="3">
+					<XForm>
+						<PinX Unit="MM">5.941601049868760</PinX>
+						<PinY Unit="MM">-8.346456692913389</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="113" UniqueID="{00B97BBA-E037-4B7A-B358-A4BDE778640E}" Name="Dynamic connector.113" NameU="Dynamic connector.113" Master="3">
+					<XForm>
+						<PinX Unit="MM">7.893700787401574</PinX>
+						<PinY Unit="MM">-8.228346456692913</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="114" UniqueID="{3C2C8B74-BE61-46D2-8378-E19390F21274}" Name="Dynamic connector.114" NameU="Dynamic connector.114" Master="3">
+					<XForm>
+						<PinX Unit="MM">7.893700787401574</PinX>
+						<PinY Unit="MM">-8.759842519685039</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="115" UniqueID="{6BF0E21D-6CA5-486D-B2DA-2A209B51599D}" Name="Dynamic connector.115" NameU="Dynamic connector.115" Master="3">
+					<XForm>
+						<PinX Unit="MM">3.346456692913387</PinX>
+						<PinY Unit="MM">2.263779527559055</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="116" UniqueID="{FFD5ADC2-D28F-4AF2-9F6A-8262488322F5}" Name="Dynamic connector.116" NameU="Dynamic connector.116" Master="3">
+					<XForm>
+						<PinX Unit="MM">2.050524934383202</PinX>
+						<PinY Unit="MM">2.499999999999997</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="117" UniqueID="{59CFD6D2-2383-4485-AD45-DA19393A53B6}" Name="Dynamic connector.117" NameU="Dynamic connector.117" Master="3">
+					<XForm>
+						<PinX Unit="MM">2.066929133858268</PinX>
+						<PinY Unit="MM">1.574803149606300</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="118" UniqueID="{BC481AE6-AAAD-410E-ADB6-AE7739C19384}" Name="Dynamic connector.118" NameU="Dynamic connector.118" Master="3">
+					<XForm>
+						<PinX Unit="MM">3.444881889763779</PinX>
+						<PinY Unit="MM">1.574803149606299</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="119" UniqueID="{B6693261-8DC4-40FE-9646-0D38656AFA2A}" Name="Dynamic connector.119" NameU="Dynamic connector.119" Master="3">
+					<XForm>
+						<PinX Unit="MM">3.937007874015746</PinX>
+						<PinY Unit="MM">3.444881889763779</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="120" UniqueID="{3D63AB41-65DF-479B-881A-033043F46449}" Name="Dynamic connector.120" NameU="Dynamic connector.120" Master="3">
+					<XForm>
+						<PinX Unit="MM">4.051837270341201</PinX>
+						<PinY Unit="MM">2.893700787401571</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="121" UniqueID="{209E5D15-8C71-46AB-B74B-682D3F43B1E7}" Name="Dynamic connector.121" NameU="Dynamic connector.121" Master="3">
+					<XForm>
+						<PinX Unit="MM">4.468503937007873</PinX>
+						<PinY Unit="MM">3.818897637795277</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="122" UniqueID="{EC752E80-39BD-494F-87A7-978F408EBA79}" Name="Dynamic connector.122" NameU="Dynamic connector.122" Master="3">
+					<XForm>
+						<PinX Unit="MM">5.666010498687657</PinX>
+						<PinY Unit="MM">4.055118110236219</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="123" UniqueID="{1A725832-DF8F-4ABB-A4C8-455B65253BC9}" Name="Dynamic connector.123" NameU="Dynamic connector.123" Master="3">
+					<XForm>
+						<PinX Unit="MM">6.889763779527558</PinX>
+						<PinY Unit="MM">3.937007874015748</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="124" UniqueID="{60620A8C-FD21-4BA3-ACF6-6A99ABD24C90}" Name="Triangle.124" NameU="Triangle.124" Master="2">
+					<Text>yes</Text>
+					<XForm>
+						<PinX Unit="MM">8.858267716535432</PinX>
+						<PinY Unit="MM">3.490813648293961</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="125" UniqueID="{0A73BFC5-29CA-4614-A341-508CF8E0D07D}" Name="Triangle.125" NameU="Triangle.125" Master="2">
+					<Text>no</Text>
+					<XForm>
+						<PinX Unit="MM">7.677165354330711</PinX>
+						<PinY Unit="MM">3.057742782152232</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="126" UniqueID="{B6C703E5-D79F-4DDD-A5AD-5E8E4A911CDC}" Name="Dynamic connector.126" NameU="Dynamic connector.126" Master="3">
+					<XForm>
+						<PinX Unit="MM">5.692257217847769</PinX>
+						<PinY Unit="MM">2.854330708661417</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="127" UniqueID="{2F7B06D2-F122-4C6F-AC21-63CABD19420F}" Name="Dynamic connector.127" NameU="Dynamic connector.127" Master="3">
+					<XForm>
+						<PinX Unit="MM">7.677165354330709</PinX>
+						<PinY Unit="MM">3.405511811023625</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="128" UniqueID="{B0897F36-0773-4385-BD47-875C32A8A768}" Name="Dynamic connector.128" NameU="Dynamic connector.128" Master="3">
+					<XForm>
+						<PinX Unit="MM">8.152887139107609</PinX>
+						<PinY Unit="MM">3.464566929133857</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="129" UniqueID="{27675F31-BF14-4DAA-BA0F-971B9D9E3D75}" Name="Dynamic connector.129" NameU="Dynamic connector.129" Master="3">
+					<XForm>
+						<PinX Unit="MM">6.692913385826770</PinX>
+						<PinY Unit="MM">7.657480314960631</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="130" UniqueID="{1D182FC7-6A95-4D21-9ED7-1F2FCE364087}" Name="Dynamic connector.130" NameU="Dynamic connector.130" Master="3">
+					<XForm>
+						<PinX Unit="MM">3.937007874015748</PinX>
+						<PinY Unit="MM">4.527559055118109</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="131" UniqueID="{8BC69E7C-8988-41BB-B34B-6D0EB6064AFE}" Name="Dynamic connector.131" NameU="Dynamic connector.131" Master="3">
+					<XForm>
+						<PinX Unit="MM">4.724409448818897</PinX>
+						<PinY Unit="MM">5.610236220472440</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="132" UniqueID="{C290F056-554D-41FB-88FC-582AD066CE28}" Name="Dynamic connector.132" NameU="Dynamic connector.132" Master="3">
+					<XForm>
+						<PinX Unit="MM">4.051837270341204</PinX>
+						<PinY Unit="MM">5.728346456692911</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="133" UniqueID="{F0941291-53EB-42E7-816F-FA9C285C9819}" Name="Dynamic connector.133" NameU="Dynamic connector.133" Master="3">
+					<XForm>
+						<PinX Unit="MM">5.626640419947500</PinX>
+						<PinY Unit="MM">6.633858267716532</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="134" UniqueID="{03797E3C-ACC0-4B54-BA12-72014A44610F}" Name="Dynamic connector.134" NameU="Dynamic connector.134" Master="3">
+					<XForm>
+						<PinX Unit="MM">3.937007874015749</PinX>
+						<PinY Unit="MM">6.377952755905513</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="135" UniqueID="{44BF465D-CA61-4C42-BF56-029231345B67}" Name="Dynamic connector.135" NameU="Dynamic connector.135" Master="3">
+					<XForm>
+						<PinX Unit="MM">4.724409448818896</PinX>
+						<PinY Unit="MM">6.791338582677165</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="136" UniqueID="{01BEE0B5-FDAC-48D8-A8E3-91B6098A5150}" Name="Dynamic connector.136" NameU="Dynamic connector.136" Master="3">
+					<XForm>
+						<PinX Unit="MM">3.248031496062992</PinX>
+						<PinY Unit="MM">8.956692913385826</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="137" UniqueID="{15786811-B746-447C-8F7D-C4A8C30438F4}" Name="Dynamic connector.137" NameU="Dynamic connector.137" Master="3">
+					<XForm>
+						<PinX Unit="MM">4.625984251968504</PinX>
+						<PinY Unit="MM">8.956692913385826</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="138" UniqueID="{902437C5-ACCF-4648-9D89-41C1BC20F477}" Name="Dynamic connector.138" NameU="Dynamic connector.138" Master="3">
+					<XForm>
+						<PinX Unit="MM">3.937007874015748</PinX>
+						<PinY Unit="MM">9.055118110236220</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="139" UniqueID="{622911EF-3515-4FAC-8442-CE7296CC188E}" Name="Dynamic connector.139" NameU="Dynamic connector.139" Master="3">
+					<XForm>
+						<PinX Unit="MM">1.771653543307088</PinX>
+						<PinY Unit="MM">8.070866141732283</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="140" UniqueID="{54125F77-1452-46A5-8CC4-93F7703077D7}" Name="Triangle.140" NameU="Triangle.140" Master="2">
+					<Text>yes</Text>
+					<XForm>
+						<PinX Unit="MM">1.574803149606302</PinX>
+						<PinY Unit="MM">7.664041994750651</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="141" UniqueID="{8194FD9B-E753-44ED-8232-748D64CDE670}" Name="Triangle.141" NameU="Triangle.141" Master="2">
+					<Text>no</Text>
+					<XForm>
+						<PinX Unit="MM">2.362204724409453</PinX>
+						<PinY Unit="MM">7.664041994750651</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="142" UniqueID="{4A20BB70-B7E3-4AA7-B0E2-745FB53D9930}" Name="Dynamic connector.142" NameU="Dynamic connector.142" Master="3">
+					<XForm>
+						<PinX Unit="MM">2.165354330708663</PinX>
+						<PinY Unit="MM">8.070866141732283</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="143" UniqueID="{13F0FA83-9724-4307-951B-C55039F7A833}" Name="Dynamic connector.143" NameU="Dynamic connector.143" Master="3">
+					<XForm>
+						<PinX Unit="MM">1.164698162729659</PinX>
+						<PinY Unit="MM">7.421259842519682</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="144" UniqueID="{27D2423D-9236-470C-8AA9-F5CD1EEADB13}" Name="Dynamic connector.144" NameU="Dynamic connector.144" Master="3">
+					<XForm>
+						<PinX Unit="MM">3.264435695538055</PinX>
+						<PinY Unit="MM">6.535433070866138</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="145" UniqueID="{DF68A9DE-1368-46D0-8980-A4DFCE3C29D4}" Name="Triangle.145" NameU="Triangle.145" Master="2">
+					<Text>yes</Text>
+					<XForm>
+						<PinX Unit="MM">6.299212598425199</PinX>
+						<PinY Unit="MM">7.664041994750652</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="146" UniqueID="{9AC3410F-9A26-483F-BA1D-44810A9B85B0}" Name="Triangle.146" NameU="Triangle.146" Master="2">
+					<Text>no</Text>
+					<XForm>
+						<PinX Unit="MM">5.511811023622050</PinX>
+						<PinY Unit="MM">7.664041994750650</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="147" UniqueID="{C4FAD049-07D0-4656-BC1A-8B76FA79C642}" Name="Dynamic connector.147" NameU="Dynamic connector.147" Master="3">
+					<XForm>
+						<PinX Unit="MM">6.709317585301833</PinX>
+						<PinY Unit="MM">7.421259842519682</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="148" UniqueID="{47FDC421-AF9C-4F91-9743-278BB2E2C2C1}" Name="Dynamic connector.148" NameU="Dynamic connector.148" Master="3">
+					<XForm>
+						<PinX Unit="MM">6.102362204724411</PinX>
+						<PinY Unit="MM">8.070866141732283</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="149" UniqueID="{053B9362-FC4A-4180-8794-7BAD829966C9}" Name="Dynamic connector.149" NameU="Dynamic connector.149" Master="3">
+					<XForm>
+						<PinX Unit="MM">5.708661417322835</PinX>
+						<PinY Unit="MM">8.070866141732282</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="150" UniqueID="{8EB8E8B7-8DCC-4A0B-B532-B3E0F029992E}" Name="Dynamic connector.150" NameU="Dynamic connector.150" Master="3">
+					<XForm>
+						<PinX Unit="MM">4.609580052493438</PinX>
+						<PinY Unit="MM">6.535433070866137</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="151" UniqueID="{25B28980-0953-418F-A64C-74F85D4ABC14}" Name="Dynamic connector.151" NameU="Dynamic connector.151" Master="3">
+					<XForm>
+						<PinX Unit="MM">5.413385826771653</PinX>
+						<PinY Unit="MM">6.003937007874015</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="152" UniqueID="{59AF3562-AD45-44CF-9F2A-FEB39238A6DE}" Name="Dynamic connector.152" NameU="Dynamic connector.152" Master="3">
+					<XForm>
+						<PinX Unit="MM">2.460629921259843</PinX>
+						<PinY Unit="MM">6.003937007874015</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="153" UniqueID="{0172A8CB-C517-4F05-B5DD-7DF3D8FBA6E2}" Name="Dynamic connector.153" NameU="Dynamic connector.153" Master="3">
+					<XForm>
+						<PinX Unit="MM">4.019028871391074</PinX>
+						<PinY Unit="MM">7.401574803149604</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="154" UniqueID="{E00B1B67-E4D9-4770-B7A8-6259ED65227A}" Name="Triangle.154" NameU="Triangle.154" Master="2">
+					<Text>yes</Text>
+					<XForm>
+						<PinX Unit="MM">4.330708661417321</PinX>
+						<PinY Unit="MM">7.624671916010496</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="155" UniqueID="{E0024098-D8EC-442B-916F-C7D6CA347877}" Name="Triangle.155" NameU="Triangle.155" Master="2">
+					<Text>no</Text>
+					<XForm>
+						<PinX Unit="MM">3.543307086614170</PinX>
+						<PinY Unit="MM">7.624671916010496</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="156" UniqueID="{55181D1F-7C94-44C7-A111-C3273640E579}" Name="Dynamic connector.156" NameU="Dynamic connector.156" Master="3">
+					<XForm>
+						<PinX Unit="MM">3.625328083989499</PinX>
+						<PinY Unit="MM">6.515748031496061</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="157" UniqueID="{E43AF130-AA76-4DBA-8143-992B7703C01E}" Name="Dynamic connector.157" NameU="Dynamic connector.157" Master="3">
+					<XForm>
+						<PinX Unit="MM">3.740157480314959</PinX>
+						<PinY Unit="MM">8.051181102362206</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="158" UniqueID="{887BAE3F-4AF2-47A5-BA69-CA8E836C2533}" Name="Dynamic connector.158" NameU="Dynamic connector.158" Master="3">
+					<XForm>
+						<PinX Unit="MM">4.133858267716534</PinX>
+						<PinY Unit="MM">8.051181102362206</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="159" UniqueID="{93965FD4-A9A0-431C-BE0B-B18A79E1E3F2}" Name="Dynamic connector.159" NameU="Dynamic connector.159" Master="3">
+					<XForm>
+						<PinX Unit="MM">3.937007874015748</PinX>
+						<PinY Unit="MM">10.137795275590550</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="160" UniqueID="{19DB855F-0FC4-4A46-A154-EA31E710DAA5}" Name="Dynamic connector.160" NameU="Dynamic connector.160" Master="3">
+					<XForm>
+						<PinX Unit="MM">3.937007874015748</PinX>
+						<PinY Unit="MM">11.122047244094487</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="161" UniqueID="{CBC5F1E3-7638-4190-80ED-6A19FAD8A55D}" Name="Dynamic connector.161" NameU="Dynamic connector.161" Master="3">
+					<XForm>
+						<PinX Unit="MM">3.937007874015748</PinX>
+						<PinY Unit="MM">12.106299212598424</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="162" UniqueID="{F8ECCCF0-C26B-4D19-AEE8-7A2B1968079E}" Name="Dynamic connector.162" NameU="Dynamic connector.162" Master="3">
+					<XForm>
+						<PinX Unit="MM">-1.850393700787400</PinX>
+						<PinY Unit="MM">0.275590551181104</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="163" UniqueID="{E1FC58F4-FF1C-4F07-A92E-35050379593E}" Name="Dynamic connector.163" NameU="Dynamic connector.163" Master="3">
+					<XForm>
+						<PinX Unit="MM">0.275590551181105</PinX>
+						<PinY Unit="MM">0.275590551181106</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="19" UniqueID="{60924934-2AC0-4231-B4C8-275BCEEFC382}" Name="Rectangle.19" NameU="Rectangle.19" Master="0">
+					<Text>More enemies to run through?</Text>
+					<XForm>
+						<PinX Unit="MM">3.937007874015748</PinX>
+						<PinY Unit="MM">-1.968503937007874</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="67" UniqueID="{EEC66956-CEDA-45FA-96E2-C6D044FAD277}" Name="Triangle.67" NameU="Triangle.67" Master="2">
+					<Text>yes</Text>
+					<XForm>
+						<PinX Unit="MM">5.039370078740155</PinX>
+						<PinY Unit="MM">-2.060367454068240</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="88" UniqueID="{C239BB21-8A20-4D59-9DCE-2F2BF70D821D}" Name="Triangle.88" NameU="Triangle.88" Master="2">
+					<Text>no</Text>
+					<XForm>
+						<PinX Unit="MM">3.937007874015751</PinX>
+						<PinY Unit="MM">-2.808398950131235</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="100" UniqueID="{5F8B4EDE-1380-4035-B88C-B861D0C2DB4C}" Name="Dynamic connector.100" NameU="Dynamic connector.100" Master="3">
+					<XForm>
+						<PinX Unit="MM">3.937007874015749</PinX>
+						<PinY Unit="MM">-2.480314960629920</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="164" UniqueID="{E8D8823A-BC29-4F76-B2F2-06D4E200583E}" Name="Dynamic connector.164" NameU="Dynamic connector.164" Master="3">
+					<XForm>
+						<PinX Unit="MM">4.051837270341204</PinX>
+						<PinY Unit="MM">-3.385826771653544</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="165" UniqueID="{04DCA335-9788-4E81-912A-B12947F26AAE}" Name="Dynamic connector.165" NameU="Dynamic connector.165" Master="3">
+					<XForm>
+						<PinX Unit="MM">4.488188976377952</PinX>
+						<PinY Unit="MM">-2.106299212598422</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="166" UniqueID="{4D42D7AA-8227-484E-A070-F4B0276B2E4E}" Name="Dynamic connector.166" NameU="Dynamic connector.166" Master="3">
+					<XForm>
+						<PinX Unit="MM">5.685695538057736</PinX>
+						<PinY Unit="MM">-1.870078740157480</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="167" UniqueID="{A7A55E51-27FB-43B1-AF20-88BBAC8E2197}" Name="Dynamic connector.167" NameU="Dynamic connector.167" Master="3">
+					<XForm>
+						<PinX Unit="MM">6.653543307086615</PinX>
+						<PinY Unit="MM">0.393700787401575</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>
